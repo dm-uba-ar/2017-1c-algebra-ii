@@ -1,10 +1,5 @@
 # Álgebra II — Primer cuatrimestre de 2017
 
-## Equipo docente
-
-- **Clases teóricas:** Gabriel Minian
-- **Clases prácticas:** Emanuel Rodríguez Cirone, Fernando Martin
-
 ## Prácticas
 
 - [Grupos - Primera parte.](practica-1.pdf)
